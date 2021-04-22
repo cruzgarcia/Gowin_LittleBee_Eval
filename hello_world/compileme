@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo " ****************************** "
+echo "       Compiling design"
+echo " ****************************** "
+gw_sh hello_world.tcl
+echo "DONE!"
